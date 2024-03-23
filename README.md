@@ -1,3 +1,9 @@
+Performed two major projects throughout the Machine Learning Course:
+
+1. Exploring machine learning models for numeric problem statements. We chose to solve a real time problem of homelessness. Please see jupyter notebook file named NumericProject_HomelessnessPrediction.ipynb
+
+2. Exploring LLMs and related libraries and tools. See file: TeamDuos_NLPProblemStatements.ipynb. More info below
+
 # Natural Language Processing Projects 
 
 Performed by Team Members:  
